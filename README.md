@@ -13,7 +13,9 @@
    />
    <img src="https://github-readme-stats.vercel.app/api?username=SergkeiM&show_icons=true" />
 </picture>
+
 ---
+
 <picture>
    <source 
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SergkeiM&layout=compact&theme=dark"
