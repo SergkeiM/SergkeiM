@@ -1,5 +1,3 @@
-# 👋 Hi, I’m @SergkeiM
-
 ## What have I been up to recently?
 
 * https://github.com/SergkeiM/vite-plugin-s3
